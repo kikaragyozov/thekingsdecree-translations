@@ -1,0 +1,11 @@
+{
+  "THEKINGSDECREE-MARDAN_FU_MARDAN_RING.title": "マーダン・フー・マーダンの指輪",
+  "THEKINGSDECREE-MARDAN_FU_MARDAN_RING.description": "各戦闘で最初にプレイした[gold]パワー[/gold]がもう1回プレイされる。",
+  "THEKINGSDECREE-MARDAN_FU_MARDAN_RING.flavor": "王の勅令により、その所持者は計り知れぬ力を振るう。",
+  "THEKINGSDECREE-SULTAN_RING.title": "スルタンの指輪",
+  "THEKINGSDECREE-SULTAN_RING.description": "各ターンで最初にプレイした[gold]パワー[/gold]がもう1回プレイされる。",
+  "THEKINGSDECREE-SULTAN_RING.flavor": "王の勅令により、支配は絶対である。",
+  "THEKINGSDECREE-KINGS_CURSE.title": "王の呪い",
+  "THEKINGSDECREE-KINGS_CURSE.description": "各ターン開始時にHPを[red]1[/red]失う。",
+  "THEKINGSDECREE-KINGS_CURSE.flavor": "王の寛大さには常に代償がある。"
+}

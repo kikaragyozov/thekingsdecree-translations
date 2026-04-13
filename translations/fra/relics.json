@@ -1,0 +1,11 @@
+{
+  "THEKINGSDECREE-MARDAN_FU_MARDAN_RING.title": "Anneau de Mardan Fu Mardan",
+  "THEKINGSDECREE-MARDAN_FU_MARDAN_RING.description": "Le premier [gold]Pouvoir[/gold] que vous jouez à chaque combat est joué une fois supplémentaire.",
+  "THEKINGSDECREE-MARDAN_FU_MARDAN_RING.flavor": "Par décret du Roi, son porteur commande un pouvoir sans mesure.",
+  "THEKINGSDECREE-SULTAN_RING.title": "Anneau du Sultan",
+  "THEKINGSDECREE-SULTAN_RING.description": "Le premier [gold]Pouvoir[/gold] que vous jouez à chaque tour est joué une fois supplémentaire.",
+  "THEKINGSDECREE-SULTAN_RING.flavor": "Par décret du Roi, la domination est absolue.",
+  "THEKINGSDECREE-KINGS_CURSE.title": "Malédiction du Roi",
+  "THEKINGSDECREE-KINGS_CURSE.description": "Perdez [red]1[/red] PV au début de chaque tour.",
+  "THEKINGSDECREE-KINGS_CURSE.flavor": "La générosité du Roi a toujours un prix."
+}

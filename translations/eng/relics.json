@@ -1,0 +1,11 @@
+{
+  "THEKINGSDECREE-MARDAN_FU_MARDAN_RING.title": "Mardan Fu Mardan's Ring",
+  "THEKINGSDECREE-MARDAN_FU_MARDAN_RING.description": "The first [gold]Power[/gold] you play each combat is played an extra time.",
+  "THEKINGSDECREE-MARDAN_FU_MARDAN_RING.flavor": "By decree of the King, its bearer commands power beyond measure.",
+  "THEKINGSDECREE-SULTAN_RING.title": "Sultan's Ring",
+  "THEKINGSDECREE-SULTAN_RING.description": "The first [gold]Power[/gold] you play each turn is played an extra time.",
+  "THEKINGSDECREE-SULTAN_RING.flavor": "By decree of the King, dominion is absolute.",
+  "THEKINGSDECREE-KINGS_CURSE.title": "King's Curse",
+  "THEKINGSDECREE-KINGS_CURSE.description": "Lose [red]1[/red] HP at the start of each turn.",
+  "THEKINGSDECREE-KINGS_CURSE.flavor": "The King's generosity always comes at a price."
+}

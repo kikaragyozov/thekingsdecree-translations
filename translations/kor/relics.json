@@ -1,0 +1,11 @@
+{
+  "THEKINGSDECREE-MARDAN_FU_MARDAN_RING.title": "마르단 푸 마르단의 반지",
+  "THEKINGSDECREE-MARDAN_FU_MARDAN_RING.description": "각 전투에서 처음 사용하는 [gold]파워[/gold]가 1번 추가로 사용됩니다.",
+  "THEKINGSDECREE-MARDAN_FU_MARDAN_RING.flavor": "왕의 칙령에 의해, 그 소지자는 헤아릴 수 없는 힘을 부린다.",
+  "THEKINGSDECREE-SULTAN_RING.title": "술탄의 반지",
+  "THEKINGSDECREE-SULTAN_RING.description": "각 턴에 처음 사용하는 [gold]파워[/gold]가 1번 추가로 사용됩니다.",
+  "THEKINGSDECREE-SULTAN_RING.flavor": "왕의 칙령에 의해, 지배는 절대적이다.",
+  "THEKINGSDECREE-KINGS_CURSE.title": "왕의 저주",
+  "THEKINGSDECREE-KINGS_CURSE.description": "각 턴 시작 시 체력을 [red]1[/red] 잃습니다.",
+  "THEKINGSDECREE-KINGS_CURSE.flavor": "왕의 관대함에는 언제나 대가가 따른다."
+}

@@ -1,0 +1,11 @@
+{
+  "THEKINGSDECREE-MARDAN_FU_MARDAN_RING.title": "Anillo de Mardan Fu Mardan",
+  "THEKINGSDECREE-MARDAN_FU_MARDAN_RING.description": "El primer [gold]Poder[/gold] que juegues en cada combate se juega una vez más.",
+  "THEKINGSDECREE-MARDAN_FU_MARDAN_RING.flavor": "Por decreto del Rey, su portador manda un poder inconmensurable.",
+  "THEKINGSDECREE-SULTAN_RING.title": "Anillo del Sultán",
+  "THEKINGSDECREE-SULTAN_RING.description": "El primer [gold]Poder[/gold] que juegues en cada turno se juega una vez más.",
+  "THEKINGSDECREE-SULTAN_RING.flavor": "Por decreto del Rey, el dominio es absoluto.",
+  "THEKINGSDECREE-KINGS_CURSE.title": "Maldición del Rey",
+  "THEKINGSDECREE-KINGS_CURSE.description": "Pierde [red]1[/red] PV al comienzo de cada turno.",
+  "THEKINGSDECREE-KINGS_CURSE.flavor": "La generosidad del Rey siempre tiene un precio."
+}

@@ -1,0 +1,11 @@
+{
+  "THEKINGSDECREE-MARDAN_FU_MARDAN_RING.title": "马尔丹·富·马尔丹的戒指",
+  "THEKINGSDECREE-MARDAN_FU_MARDAN_RING.description": "你每场战斗打出的第一张[gold]能力[/gold]牌会额外打出一次。",
+  "THEKINGSDECREE-MARDAN_FU_MARDAN_RING.flavor": "依国王诏令，持有者号令无可衡量的力量。",
+  "THEKINGSDECREE-SULTAN_RING.title": "苏丹的戒指",
+  "THEKINGSDECREE-SULTAN_RING.description": "你每回合打出的第一张[gold]能力[/gold]牌会额外打出一次。",
+  "THEKINGSDECREE-SULTAN_RING.flavor": "依国王诏令，统治乃是绝对。",
+  "THEKINGSDECREE-KINGS_CURSE.title": "国王的诅咒",
+  "THEKINGSDECREE-KINGS_CURSE.description": "每回合开始时失去[red]1[/red]点生命。",
+  "THEKINGSDECREE-KINGS_CURSE.flavor": "国王的慷慨总有代价。"
+}
