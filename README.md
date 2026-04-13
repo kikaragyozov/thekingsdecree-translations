@@ -1,6 +1,6 @@
 # The King's Decree — Translations
 
-Public translation repository for the **[The King's Decree](https://www.nexusmods.com/slaythespire2)** mod for *Slay the Spire 2*.
+Public translation repository for the **[The King's Decree](https://www.nexusmods.com/slaythespire2/mods/493)** mod for *Slay the Spire 2* on Nexus Mods.
 
 Only the localization JSON files live here — the rest of the mod source (C#, images, etc.) is kept private while the mod stabilizes. If there's community interest for a fully open repository in the future, that may change in a later release.
 
@@ -46,7 +46,7 @@ All accepted contributors are credited in [CREDITS.md](CREDITS.md) and in the mo
 
 ## Non-technical feedback
 
-If submitting a pull request feels like too much, just leave a comment on the [Nexus mod page](https://www.nexusmods.com/slaythespire2) describing the issue and the suggested fix. The mod author reads every comment.
+If submitting a pull request feels like too much, just leave a comment on the [Nexus mod page](https://www.nexusmods.com/slaythespire2/mods/493) describing the issue and the suggested fix. The mod author reads every comment.
 
 ## License
 

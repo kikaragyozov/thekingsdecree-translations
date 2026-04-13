@@ -71,6 +71,6 @@ That key's value is copied byte-for-byte from MegaCrit's own "Choose a Card." tr
 
 ## Questions
 
-Leave an issue on the repo or comment on the Nexus mod page.
+Leave an issue on the repo or comment on the [Nexus mod page](https://www.nexusmods.com/slaythespire2/mods/493).
 
 Thanks again — every correction makes the mod better for a player who'd otherwise read awkward translated prose.
