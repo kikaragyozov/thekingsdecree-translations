@@ -30,7 +30,7 @@
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.BEG_FOR_RICHES.title": "Suplicar riquezas",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.BEG_FOR_RICHES.description": "Gana [blue]{Gold}[/blue] de [gold]Oro[/gold]. Consigue una [gold]Reliquia[/gold] aleatoria.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ASK_FOR_POWER.title": "Pedir poder",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ASK_FOR_POWER.description": "Elimina [red]{Cards}[/red] cartas aleatorias. Elige una carta [gold]Rara[/gold] de cualquier personaje.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ASK_FOR_POWER.description": "Elimina [blue]{Cards}[/blue] cartas aleatorias. Elige una carta [gold]Rara[/gold] de cualquier personaje.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ENTERTAIN.title": "Ofrecer entretenimiento",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ENTERTAIN.description": "Elimina [blue]2[/blue] cartas de tu [gold]Mazo[/gold].",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.CLAIM_MARDAN.description": "El Rey [jitter][b]se alza[/b][/jitter]. La sala [jitter][red]tiembla[/red][/jitter].\n\n[sine][gold]—Te lo has ganado.[/gold][/sine]\n\nExtiende una mano, y un [gold]anillo[/gold] de [purple]antigua[/purple] factura se materializa en tu dedo. Pero cuando el anillo se asienta, un [red]dolor frío[/red] se extiende por tu pecho.\n\nEl Rey se sienta.\n[sine][gold]—El poder tiene su precio. Lo sabes.[/gold][/sine]",

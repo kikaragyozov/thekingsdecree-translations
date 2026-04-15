@@ -30,7 +30,7 @@
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.BEG_FOR_RICHES.title": "財宝を懇願する",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.BEG_FOR_RICHES.description": "[blue]{Gold}[/blue][gold]ゴールド[/gold]を得る。ランダムな[gold]レリック[/gold]を得る。",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ASK_FOR_POWER.title": "力を求める",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ASK_FOR_POWER.description": "ランダムなカードを[red]{Cards}[/red]枚除去する。任意のキャラクターから[gold]レア[/gold]カードを1枚選ぶ。",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ASK_FOR_POWER.description": "ランダムなカードを[blue]{Cards}[/blue]枚除去する。任意のキャラクターから[gold]レア[/gold]カードを1枚選ぶ。",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ENTERTAIN.title": "余興を供する",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ENTERTAIN.description": "[gold]デッキ[/gold]からカードを[blue]2[/blue]枚除去する。",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.CLAIM_MARDAN.description": "王は[jitter][b]立ち上がる[/b][/jitter]。間は[jitter][red]震える[/red][/jitter]。\n\n[sine][gold]「それを得るに値した。」[/gold][/sine]\n\n王は手を差し伸べる――[purple]いにしえの[/purple]造りの[gold]指輪[/gold]が指に顕現する。しかし指輪が落ち着くと、胸に[red]冷たい痛み[/red]が広がる。\n\n王は腰を下ろす。\n[sine][gold]「力には代償がある。お主も承知していよう。」[/gold][/sine]",

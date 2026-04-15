@@ -30,7 +30,7 @@
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.BEG_FOR_RICHES.title": "Молить о богатствах",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.BEG_FOR_RICHES.description": "Получить [blue]{Gold}[/blue] [gold]золота[/gold]. Получить случайную [gold]реликвию[/gold].",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ASK_FOR_POWER.title": "Попросить силу",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ASK_FOR_POWER.description": "Удалить [red]{Cards}[/red] случайных карт. Выбрать [gold]редкую[/gold] карту любого персонажа.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ASK_FOR_POWER.description": "Удалить [blue]{Cards}[/blue] случайных карт. Выбрать [gold]редкую[/gold] карту любого персонажа.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ENTERTAIN.title": "Предложить развлечение",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ENTERTAIN.description": "Удалить [blue]2[/blue] карты из [gold]колоды[/gold].",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.CLAIM_MARDAN.description": "Король [jitter][b]встаёт[/b][/jitter]. Зал [jitter][red]содрогается[/red][/jitter].\n\n[sine][gold]«Вы это заслужили.»[/gold][/sine]\n\nОн протягивает руку — и [gold]кольцо[/gold] [purple]древней[/purple] работы материализуется на вашем пальце. Но когда кольцо ложится на место, [red]холодная боль[/red] расходится по груди.\n\nКороль садится.\n[sine][gold]«У силы есть своя цена. Вы это знаете.»[/gold][/sine]",

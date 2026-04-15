@@ -30,7 +30,7 @@
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.BEG_FOR_RICHES.title": "Beg for Riches",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.BEG_FOR_RICHES.description": "Gain [blue]{Gold}[/blue] [gold]Gold[/gold]. Obtain a random [gold]Relic[/gold].",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ASK_FOR_POWER.title": "Ask for Power",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ASK_FOR_POWER.description": "Remove [red]{Cards}[/red] random cards. Choose a [gold]Rare[/gold] card from any class.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ASK_FOR_POWER.description": "Remove [blue]{Cards}[/blue] random cards. Choose a [gold]Rare[/gold] card from any character.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ENTERTAIN.title": "Offer to Entertain",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.ENTERTAIN.description": "Remove [blue]2[/blue] cards from your [gold]Deck[/gold].",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.CLAIM_MARDAN.description": "The King [jitter][b]rises[/b][/jitter]. The room [jitter][red]trembles[/red][/jitter].\n\n[sine][gold]\"You have earned this.\"[/gold][/sine]\n\nHe extends a hand — and a [gold]ring[/gold] of [purple]ancient[/purple] make materializes upon your finger. But as the ring settles, a [red]cold ache[/red] spreads through your chest.\n\nThe King sits.\n[sine][gold]\"Power has its price. You know this.\"[/gold][/sine]",
