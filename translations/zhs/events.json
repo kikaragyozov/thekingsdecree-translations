@@ -32,7 +32,7 @@
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ASK_FOR_POWER.description": "[sine][gold]“力量需要牺牲。”[/gold][/sine] 国王如此说道。\n\n卡牌自你的牌组中未经召唤便升起，化作[purple]点点光辉[/purple]消散。在它们原本的位置，一项[gold]稀有而强大的技艺[/gold]知识在你的心中扎根。\n\n[sine][gold]“明智地使用它。将不会有第二件礼物。”[/gold][/sine]",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.REFINEMENT.description": "国王久久审视着你，随后[sine][gold]“将你的器物呈于我前。”[/gold][/sine]\n\n你将牌组铺展在光洁的石面之上。他的目光逐一掠过每一张卡牌——目光所驻之处，羊皮纸[jitter][gold]熠熠生辉[/gold][/jitter]，墨迹[purple]愈发深沉[/purple]，边角[b]愈加锋利[/b]。\n\n[sine][gold]“凡你之所有，我必使其堪为我所用。”[/gold][/sine]",
   "THEKINGSDECREE-MARDANS_TRIAL.title": "马尔丹的试炼",
-  "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.description": "你来到战士的安息之地。[b]黑铁旗帜[/b]两侧林立，一座饱经风霜的石龛矗立其间，空气中弥漫着[purple]古老的敬意[/purple]。\n\n石龛脚下立着[purple]国王的勇士[/purple]——连枷横担肩头，头盔低垂，目光[jitter]紧锁于你[/jitter]。他已等候多时。\n\n他不开口。也无需开口。[sine][gold]国王的意志[/gold][/sine]同样沉沉压来：证明你自己，或付出另一种代价。",
+  "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.description": "你来到战士的安息之地。一面[b]破败的黑铁旗帜[/b]立于一具饱经风霜的石棺脚下，空气中弥漫着[purple]古老的敬意[/purple]。\n\n身后传来回荡的脚步声。[purple]国王的勇士[/purple]缓步而来——连枷横担肩头，头盔低垂，目光[jitter]紧锁于你[/jitter]。他已等候多时。\n\n他不开口。也无需开口。[sine][gold]国王的意志[/gold][/sine]同样沉沉压来：证明你自己，或付出另一种代价。",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.ACCEPT_CHALLENGE.title": "接受挑战",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.ACCEPT_CHALLENGE.description": "[red]战斗。[/red]赢得[gold]戒指[/gold]与[gold]邀请函[/gold]。",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.title": "讨价戒指",

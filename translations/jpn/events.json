@@ -32,7 +32,7 @@
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ASK_FOR_POWER.description": "[sine][gold]「力は犠牲を求める。」[/gold][/sine] 王はそう告げる。\n\nデッキからカードが意志せずに浮かび上がり、[purple]光の粒[/purple]となって消えていく。その代わりに、[gold]稀有で強大な技[/gold]の知識が脳裏に宿る。\n\n[sine][gold]「賢明に用いよ。二度目の贈り物はない。」[/gold][/sine]",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.REFINEMENT.description": "王はしばらくお主を見つめ、やがて[sine][gold]「道具を我が前に並べよ。」[/gold][/sine]と告げた。\n\n磨かれた石の上にデッキを広げる。王の視線が一枚一枚を順に通り過ぎていく――その視線が留まったところで、羊皮紙は[jitter][gold]輝き[/gold][/jitter]、墨は[purple]深まり[/purple]、縁は[b]研ぎ澄まされる[/b]。\n\n[sine][gold]「お主のものは、我に仕えるに足るものとしてやろう。」[/gold][/sine]",
   "THEKINGSDECREE-MARDANS_TRIAL.title": "マーダンの試練",
-  "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.description": "戦士の安息の地に辿り着く。[b]黒鉄の旗[/b]が風雨に晒された石の祠を挟むように立ち並び、空気は[purple]古き敬意[/purple]に重く満ちている。\n\n祠の麓に[purple]王のチャンピオン[/purple]が立っている――肩に担いだフレイル、伏せられた兜、[jitter]お主に向けられた瞳[/jitter]。彼は待ち続けていた。\n\n彼は語らない。語る必要もない。それでも[sine][gold]王の意志[/gold][/sine]は同じ重みでお主にのしかかる――その価値を示すか、別の代償を支払うか。",
+  "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.description": "戦士の安息の地に辿り着く。[b]ぼろぼろの黒鉄の旗[/b]が風雨に晒された石棺の麓に立ち、空気は[purple]古き敬意[/purple]に重く満ちている。\n\n背後から足音が響く。[purple]王のチャンピオン[/purple]が近づいてくる――肩に担いだフレイル、伏せられた兜、[jitter]お主に向けられた瞳[/jitter]。彼は待ち続けていた。\n\n彼は語らない。語る必要もない。それでも[sine][gold]王の意志[/gold][/sine]は同じ重みでお主にのしかかる――その価値を示すか、別の代償を支払うか。",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.ACCEPT_CHALLENGE.title": "挑戦を受ける",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.ACCEPT_CHALLENGE.description": "[red]戦う。[/red] 勝利して[gold]指輪[/gold]と[gold]招待状[/gold]を得る。",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.title": "指輪を交渉する",
