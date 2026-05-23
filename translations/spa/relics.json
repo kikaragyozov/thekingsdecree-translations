@@ -6,6 +6,6 @@
   "THEKINGSDECREE-SULTAN_RING.description": "El primer [gold]Poder[/gold] que juegues en cada turno se juega una vez más.",
   "THEKINGSDECREE-SULTAN_RING.flavor": "Por decreto del Rey, el dominio es absoluto.",
   "THEKINGSDECREE-KINGS_CURSE.title": "Maldición del Rey",
-  "THEKINGSDECREE-KINGS_CURSE.description": "Pierde [red]1[/red] PV al comienzo de cada turno.",
+  "THEKINGSDECREE-KINGS_CURSE.description": "Pierde [red]1[/red] PV al comienzo de cada combate.",
   "THEKINGSDECREE-KINGS_CURSE.flavor": "La generosidad del Rey siempre tiene un precio."
 }

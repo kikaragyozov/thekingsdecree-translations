@@ -1,0 +1,5 @@
+{
+  "THEKINGSDECREE-ROYAL_BEARING_POWER.title": "Königliche Haltung",
+  "THEKINGSDECREE-ROYAL_BEARING_POWER.description": "Am Ende seines Zuges erhält dieser Gegner [gold]Stärke[/gold].",
+  "THEKINGSDECREE-ROYAL_BEARING_POWER.smartDescription": "Am Ende seines Zuges erhält dieser Gegner [blue]{Amount}[/blue] [gold]Stärke[/gold]."
+}

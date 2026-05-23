@@ -1,0 +1,5 @@
+{
+  "THEKINGSDECREE-ROYAL_BEARING_POWER.title": "王者の風格",
+  "THEKINGSDECREE-ROYAL_BEARING_POWER.description": "ターン終了時、この敵は[gold]筋力[/gold]を得る。",
+  "THEKINGSDECREE-ROYAL_BEARING_POWER.smartDescription": "ターン終了時、この敵は[gold]筋力[/gold][blue]{Amount}[/blue]を得る。"
+}

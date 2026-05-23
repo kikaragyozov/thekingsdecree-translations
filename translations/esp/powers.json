@@ -1,0 +1,5 @@
+{
+  "THEKINGSDECREE-ROYAL_BEARING_POWER.title": "Porte Real",
+  "THEKINGSDECREE-ROYAL_BEARING_POWER.description": "Al final de su turno, este enemigo obtiene [gold]fuerza[/gold].",
+  "THEKINGSDECREE-ROYAL_BEARING_POWER.smartDescription": "Al final de su turno, este enemigo obtiene [blue]{Amount}[/blue] de [gold]fuerza[/gold]."
+}

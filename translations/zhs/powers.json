@@ -1,0 +1,5 @@
+{
+  "THEKINGSDECREE-ROYAL_BEARING_POWER.title": "王者风范",
+  "THEKINGSDECREE-ROYAL_BEARING_POWER.description": "在自身回合结束时，这名敌人获得[gold]力量[/gold]。",
+  "THEKINGSDECREE-ROYAL_BEARING_POWER.smartDescription": "在自身回合结束时，这名敌人获得[blue]{Amount}[/blue]点[gold]力量[/gold]。"
+}

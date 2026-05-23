@@ -1,0 +1,5 @@
+{
+  "THEKINGSDECREE-ROYAL_BEARING_POWER.title": "Royal Bearing",
+  "THEKINGSDECREE-ROYAL_BEARING_POWER.description": "At the end of its turn, this enemy gains [gold]Strength[/gold].",
+  "THEKINGSDECREE-ROYAL_BEARING_POWER.smartDescription": "At the end of its turn, this enemy gains [blue]{Amount}[/blue] [gold]Strength[/gold]."
+}
