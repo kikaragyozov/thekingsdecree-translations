@@ -40,7 +40,7 @@
   "THEKINGSDECREE-MARDANS_TRIAL.pages.BARGAIN.description": "Der Champion mustert dich einen langen Moment. Es liegt keine Verachtung in seinem Blick — nur die Müdigkeit eines, der schon viele diesen Weg hat wählen sehen.\n\nEr nickt einmal und legt dir den [gold]Ring[/gold] ohne Zeremonie in die Handfläche. Das Metall ist warm, schwerer, als es aussieht.\n\nAls sich deine Finger darum schließen, setzt sich eine [jitter][red]Kälte[/red][/jitter] in deinen Knochen fest — der [red]Fluch des Königs[/red], im Voraus entrichtet für das, was du nicht verdient hast.",
   "THEKINGSDECREE-generic.selectionScreenPrompt": "Wähle eine Karte.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "Verhandeln",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10 %[/blue] Chance einzutreten.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10%[/blue] Chance einzutreten.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "Verhandeln",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "Du hast die Einladung des Königs angenommen. Du musst eintreten.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "Du näherst dich der Schwelle mit leeren Händen und trägst dein Anliegen vor. Der König hört zu, unbewegt. Dann, fast unmerklich, winkt er dich heran.\n\n[sine][gold]“Ein ungebetener Gast. Sprich, solange ich in Stimmung bin zuzuhören.”[/gold][/sine]",
