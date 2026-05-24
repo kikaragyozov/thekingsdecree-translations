@@ -41,8 +41,6 @@
   "THEKINGSDECREE-generic.selectionScreenPrompt": "Choisissez une Carte.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "Parlementer",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10 %[/blue] de chance d’entrer.",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "Parlementer",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "Vous avez accepté l’invitation du Roi. Vous devez entrer.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "Vous approchez du seuil les mains vides et plaidez votre cause. Le Roi écoute, immobile. Puis, de manière presque imperceptible, il vous fait signe d’avancer.\n\n[sine][gold]« Un invité sans invitation. Parlez, tant que je suis d’humeur à écouter. »[/gold][/sine]",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_FAIL.description": "Vous approchez du seuil les mains vides. Le Roi ne parle pas — mais vous [jitter][red]ressentez[/red][/jitter] son déplaisir.\n\n[sine][gold]Vous n’étiez pas invité.[/gold][/sine]",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.title": "Verrouillé",

@@ -41,8 +41,6 @@
   "THEKINGSDECREE-generic.selectionScreenPrompt": "Выберите карту.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "Переговоры",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10%[/blue] шанс войти.",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "Переговоры",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "Вы приняли приглашение Короля. Вы должны войти.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "Вы приближаетесь к порогу с пустыми руками и излагаете своё дело. Король слушает, недвижим. Затем, почти незаметно, манит вас вперёд.\n\n[sine][gold]«Незваный гость. Говорите, пока я расположен слушать.»[/gold][/sine]",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_FAIL.description": "Вы приближаетесь к порогу с пустыми руками. Король не говорит — но вы [jitter][red]чувствуете[/red][/jitter] его недовольство.\n\n[sine][gold]Вас не приглашали.[/gold][/sine]",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.title": "Закрыто",

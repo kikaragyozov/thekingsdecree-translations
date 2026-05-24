@@ -41,8 +41,6 @@
   "THEKINGSDECREE-generic.selectionScreenPrompt": "Wähle eine Karte.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "Verhandeln",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10%[/blue] Chance einzutreten.",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "Verhandeln",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "Du hast die Einladung des Königs angenommen. Du musst eintreten.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "Du näherst dich der Schwelle mit leeren Händen und trägst dein Anliegen vor. Der König hört zu, unbewegt. Dann, fast unmerklich, winkt er dich heran.\n\n[sine][gold]“Ein ungebetener Gast. Sprich, solange ich in Stimmung bin zuzuhören.”[/gold][/sine]",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_FAIL.description": "Du näherst dich der Schwelle mit leeren Händen. Der König spricht nicht — doch du [jitter][red]spürst[/red][/jitter] sein Missfallen.\n\n[sine][gold]Du warst nicht eingeladen.[/gold][/sine]",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.title": "Gesperrt",

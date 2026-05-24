@@ -41,8 +41,6 @@
   "THEKINGSDECREE-generic.selectionScreenPrompt": "เลือกการ์ด 1 ใบ",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "เจรจา",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10%[/blue] โอกาสเข้าได้",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "เจรจา",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "คุณรับคำเชิญของกษัตริย์แล้ว คุณต้องเข้าไป",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "คุณเดินเข้าไปที่ธรณีประตูมือเปล่าและเสนอเรื่องของคุณ กษัตริย์ทรงสดับ นิ่งไม่ขยับ แล้วเกือบจะมองไม่เห็น พระองค์ทรงโบกมือเรียกคุณเข้าไป\n\n[sine][gold]“แขกที่ไม่ได้รับเชิญ พูดเถิด ขณะที่ข้ายังเปิดรับฟัง”[/gold][/sine]",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_FAIL.description": "คุณเดินเข้าไปที่ธรณีประตูมือเปล่า กษัตริย์ไม่ตรัส — แต่คุณ[jitter][red]รู้สึก[/red][/jitter]ถึงความไม่พอพระทัย\n\n[sine][gold]เจ้าไม่ได้รับเชิญ[/gold][/sine]",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.title": "ล็อก",

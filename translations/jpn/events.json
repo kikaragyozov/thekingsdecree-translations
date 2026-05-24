@@ -41,8 +41,6 @@
   "THEKINGSDECREE-generic.selectionScreenPrompt": "カードを1枚選ぶ。",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "交渉する",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10%[/blue]の確率で入れる。",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "交渉する",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "王の招待を受け入れた。入らなければならない。",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "手ぶらで敷居に近づき、自らの弁を述べる。王は微動だにせず聞いている。やがて、ほとんど気づかぬほどに、手招きされる。\n\n[sine][gold]「招かれざる客か。聞く気がある内に、申せ。」[/gold][/sine]",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_FAIL.description": "手ぶらで敷居に近づく。王は語らない――だがその[jitter][red]不興[/red][/jitter]を感じ取る。\n\n[sine][gold]お主は招かれていない。[/gold][/sine]",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.title": "ロック中",

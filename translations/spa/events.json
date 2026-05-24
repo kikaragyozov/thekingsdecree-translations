@@ -41,8 +41,6 @@
   "THEKINGSDECREE-generic.selectionScreenPrompt": "Elige una Carta.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "Parlamentar",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10%[/blue] de probabilidad de entrar.",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "Parlamentar",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "Aceptaste la invitación del Rey. Debes entrar.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "Te acercas al umbral con las manos vacías y expones tu caso. El Rey escucha, inmóvil. Entonces, casi imperceptiblemente, te hace un gesto para que avances.\n\n[sine][gold]—Un invitado sin invitación. Habla, mientras tenga humor para escuchar.[/gold][/sine]",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_FAIL.description": "Te acercas al umbral con las manos vacías. El Rey no habla, pero [jitter][red]sientes[/red][/jitter] su desagrado.\n\n[sine][gold]No estabas invitado.[/gold][/sine]",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.title": "Bloqueada",

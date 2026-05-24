@@ -41,8 +41,6 @@
   "THEKINGSDECREE-MARDANS_TRIAL.pages.BARGAIN.description": "El Campeón te observa un largo instante. No hay desprecio en su mirada, solo la fatiga de quien ha visto a muchos elegir esta senda.\n\nAsiente una vez y deposita el [gold]anillo[/gold] en tu palma sin ceremonia. El metal está tibio, más pesado de lo que aparenta.\n\nCuando tus dedos se cierran a su alrededor, un [jitter][red]frío[/red][/jitter] se asienta en tus huesos: la [red]Maldición del Rey[/red], cobrada por adelantado por lo que no has ganado.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "Parlamentar",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10%[/blue] de probabilidad de entrar.",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "Parlamentar",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "Has aceptado la invitación del Rey. Debes entrar.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "Te acercas al umbral con las manos vacías y expones tu caso. El Rey escucha, inmóvil. Entonces, casi imperceptiblemente, te hace un gesto para que avances.\n\n[sine][gold]—Un invitado sin invitación. Habla, mientras tenga humor para escuchar.[/gold][/sine]",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_FAIL.description": "Te acercas al umbral con las manos vacías. El Rey no habla, pero [jitter][red]sientes[/red][/jitter] su desagrado.\n\n[sine][gold]No estabas invitado.[/gold][/sine]",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.title": "Bloqueada",

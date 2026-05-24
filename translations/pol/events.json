@@ -41,8 +41,6 @@
   "THEKINGSDECREE-generic.selectionScreenPrompt": "Wybierz kartę.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "Pertraktuj",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10%[/blue] szans na wejście.",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "Pertraktuj",
-  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "Przyjąłeś zaproszenie Króla. Musisz wejść.",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "Zbliżasz się do progu z pustymi rękami i przedstawiasz swoją sprawę. Król słucha, nieruchomy. Potem, niemal niedostrzegalnie, daje ci znak, by podejść.\n\n[sine][gold]„Nieproszony gość. Mów, póki jestem w nastroju, by słuchać.”[/gold][/sine]",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_FAIL.description": "Zbliżasz się do progu z pustymi rękami. Król nie przemawia, lecz [jitter][red]czujesz[/red][/jitter] jego niezadowolenie.\n\n[sine][gold]Nie byłeś zaproszony.[/gold][/sine]",
   "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.title": "Zablokowane",
