@@ -38,5 +38,13 @@
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.title": "Contratta per l'Anello",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.description": "Prendi l'[gold]Anello[/gold]. Sopporta la [red]Maledizione del Re[/red].",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.BARGAIN.description": "Il Campione ti osserva a lungo. Nel suo sguardo non c'è disprezzo, solo la stanchezza di chi ha visto molti scegliere questa via prima di te.\n\nAnnuisce una volta e ti depone l'[gold]anello[/gold] nel palmo senza cerimonie. Il metallo è caldo, più pesante di quanto sembri.\n\nMentre le tue dita si chiudono attorno ad esso, un [jitter][red]gelo[/red][/jitter] si insinua nelle tue ossa: la [red]Maledizione del Re[/red], pagata in anticipo per ciò che non hai meritato.",
-  "THEKINGSDECREE-generic.selectionScreenPrompt": "Scegli una carta."
+  "THEKINGSDECREE-generic.selectionScreenPrompt": "Scegli una carta.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "Parlamenta",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10%[/blue] di probabilità di entrare.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "Parlamenta",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "Hai accettato l'invito del Re. Devi entrare.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "Ti avvicini alla soglia a mani vuote e presenti la tua causa. Il Re ascolta, immobile. Poi, in modo quasi impercettibile, ti fa cenno di avanzare.\n\n[sine][gold]\"Un ospite non invitato. Parla, finché sono in vena di ascoltare.\"[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_FAIL.description": "Ti avvicini alla soglia a mani vuote. Il Re non parla, ma [jitter][red]senti[/red][/jitter] il suo disappunto.\n\n[sine][gold]Non eri invitato.[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.title": "Bloccata",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.description": "Richiede l'[gold]Anello di Mardan Fu Mardan[/gold]."
 }

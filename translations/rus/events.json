@@ -38,5 +38,13 @@
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.title": "Выторговать кольцо",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.description": "Взять [gold]Кольцо[/gold]. Принять [red]Проклятие Короля[/red].",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.BARGAIN.description": "Поборник долго взирает на вас. В его взгляде нет презрения — лишь усталость того, кто видел многих, кто избрал этот путь прежде.\n\nОн один раз кивает и без церемоний кладёт [gold]кольцо[/gold] в вашу ладонь. Металл тёплый, тяжелее, чем кажется.\n\nКогда ваши пальцы смыкаются вокруг него, [jitter][red]холод[/red][/jitter] оседает в ваших костях — [red]Проклятие Короля[/red], уплаченное вперёд за то, что вы не заслужили.",
-  "THEKINGSDECREE-generic.selectionScreenPrompt": "Выберите карту."
+  "THEKINGSDECREE-generic.selectionScreenPrompt": "Выберите карту.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "Переговоры",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10%[/blue] шанс войти.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "Переговоры",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "Вы приняли приглашение Короля. Вы должны войти.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "Вы приближаетесь к порогу с пустыми руками и излагаете своё дело. Король слушает, недвижим. Затем, почти незаметно, манит вас вперёд.\n\n[sine][gold]«Незваный гость. Говорите, пока я расположен слушать.»[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_FAIL.description": "Вы приближаетесь к порогу с пустыми руками. Король не говорит — но вы [jitter][red]чувствуете[/red][/jitter] его недовольство.\n\n[sine][gold]Вас не приглашали.[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.title": "Закрыто",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.description": "Нужно [gold]Кольцо Мардана Фу Мардана[/gold]."
 }

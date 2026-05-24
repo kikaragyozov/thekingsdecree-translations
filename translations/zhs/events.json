@@ -38,5 +38,13 @@
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.title": "讨价戒指",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.description": "取走[gold]戒指[/gold]。承受[red]国王的诅咒[/red]。",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.BARGAIN.description": "勇士长久地注视着你。他的目光中没有轻蔑——只有一份倦意，仿佛他已见过太多人选择此路。\n\n他点了一下头，不加礼仪地将[gold]戒指[/gold]放入你的掌心。金属温热，比看上去要沉。\n\n你的手指合拢之际，一股[jitter][red]寒意[/red][/jitter]渗入骨髓——[red]国王的诅咒[/red]，作为你未曾应得之物的预付之价。",
-  "THEKINGSDECREE-generic.selectionScreenPrompt": "选择一张牌"
+  "THEKINGSDECREE-generic.selectionScreenPrompt": "选择一张牌",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "交涉",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10%[/blue]概率进入。",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "交涉",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "你已接受国王的邀请。必须进入。",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "你空手走向门槛，陈述你的来意。国王纹丝不动地听着。随后，几乎难以察觉地向你招了招手。\n\n[sine][gold]“不请自来的客人。趁我还有心情，说吧。”[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_FAIL.description": "你空手走向门槛。国王没有开口——但你[jitter][red]感受到[/red][/jitter]了他的不悦。\n\n[sine][gold]你未被邀请。[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.title": "锁定",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.description": "需要[gold]马尔丹·富·马尔丹的戒指[/gold]。"
 }

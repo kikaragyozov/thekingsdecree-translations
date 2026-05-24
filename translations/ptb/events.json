@@ -38,5 +38,13 @@
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.title": "Negociar pelo Anel",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.description": "Receba o [gold]Anel[/gold]. Carregue a [red]Maldição do Rei[/red].",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.BARGAIN.description": "O Campeão o observa por um longo instante. Não há desprezo em seu olhar — apenas o cansaço de alguém que já viu muitos escolherem este caminho antes.\n\nEle assente uma vez e deposita o [gold]anel[/gold] em sua palma sem cerimônia. O metal é quente, mais pesado do que parece.\n\nConforme seus dedos se fecham em torno dele, um [jitter][red]calafrio[/red][/jitter] se assenta em seus ossos — a [red]Maldição do Rei[/red], paga adiantada pelo que você não mereceu.",
-  "THEKINGSDECREE-generic.selectionScreenPrompt": "Escolha uma Carta."
+  "THEKINGSDECREE-generic.selectionScreenPrompt": "Escolha uma Carta.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "Parlamentar",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10%[/blue] de chance de entrar.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "Parlamentar",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "Você aceitou o convite do Rei. Você deve entrar.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "Você se aproxima do limiar de mãos vazias e apresenta seu caso. O Rei escuta, imóvel. Então, quase imperceptivelmente, faz sinal para que avançe.\n\n[sine][gold]“Um convidado sem convite. Fale, enquanto estou disposto a ouvir.”[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_FAIL.description": "Você se aproxima do limiar de mãos vazias. O Rei não fala — mas você [jitter][red]sente[/red][/jitter] seu desagrado.\n\n[sine][gold]Você não foi convidado.[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.title": "Bloqueada",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.description": "Requer o [gold]Anel de Mardan Fu Mardan[/gold]."
 }

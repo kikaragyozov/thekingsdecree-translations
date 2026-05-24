@@ -38,5 +38,13 @@
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.title": "ต่อรองเพื่อแหวน",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.description": "รับ[gold]แหวน[/gold] แบก[red]คำสาปของกษัตริย์[/red]",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.BARGAIN.description": "ผู้กล้าศึกพิจารณาเจ้าอยู่นาน ไม่มีความดูแคลนในสายตา — มีเพียงความเหนื่อยล้าของผู้ที่ได้เห็นหลายคนเลือกเส้นทางนี้มาก่อน\n\nเขาพยักหน้าครั้งหนึ่งและวาง[gold]แหวน[/gold]ลงในฝ่ามือเจ้าโดยปราศจากพิธีรีตอง โลหะอุ่น หนักกว่าที่ดูเห็น\n\nเมื่อนิ้วของเจ้าโอบรอบมัน [jitter][red]ความเย็นเยือก[/red][/jitter]ก็เข้าฝังในกระดูก — [red]คำสาปของกษัตริย์[/red] จ่ายล่วงหน้าเป็นค่าของสิ่งที่เจ้าไม่ได้หามาเอง",
-  "THEKINGSDECREE-generic.selectionScreenPrompt": "เลือกการ์ด 1 ใบ"
+  "THEKINGSDECREE-generic.selectionScreenPrompt": "เลือกการ์ด 1 ใบ",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "เจรจา",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10%[/blue] โอกาสเข้าได้",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "เจรจา",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "คุณรับคำเชิญของกษัตริย์แล้ว คุณต้องเข้าไป",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "คุณเดินเข้าไปที่ธรณีประตูมือเปล่าและเสนอเรื่องของคุณ กษัตริย์ทรงสดับ นิ่งไม่ขยับ แล้วเกือบจะมองไม่เห็น พระองค์ทรงโบกมือเรียกคุณเข้าไป\n\n[sine][gold]“แขกที่ไม่ได้รับเชิญ พูดเถิด ขณะที่ข้ายังเปิดรับฟัง”[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_FAIL.description": "คุณเดินเข้าไปที่ธรณีประตูมือเปล่า กษัตริย์ไม่ตรัส — แต่คุณ[jitter][red]รู้สึก[/red][/jitter]ถึงความไม่พอพระทัย\n\n[sine][gold]เจ้าไม่ได้รับเชิญ[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.title": "ล็อก",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.description": "ต้องการ[gold]แหวนของมาร์ดาน ฟู มาร์ดาน[/gold]"
 }

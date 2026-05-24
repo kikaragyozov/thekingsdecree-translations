@@ -38,5 +38,13 @@
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.title": "Targuj się o Pierścień",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.description": "Weź [gold]Pierścień[/gold]. Otrzymaj [red]Klątwę Króla[/red].",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.BARGAIN.description": "Czempion przygląda ci się przez długą chwilę. W jego spojrzeniu nie ma pogardy. Jest tylko znużenie kogoś, kto widział wielu wybierających tę ścieżkę przed tobą.\n\nKiwa głową raz i bez ceremonii kładzie [gold]pierścień[/gold] w twojej dłoni. Metal jest ciepły, cięższy niż wygląda.\n\nGdy zaciskasz wokół niego palce, [jitter][red]chłód[/red][/jitter] osiada w twoich kościach. To [red]Klątwa Króla[/red], zapłacona z góry za to, na co nie zasłużyłeś.",
-  "THEKINGSDECREE-generic.selectionScreenPrompt": "Wybierz kartę."
+  "THEKINGSDECREE-generic.selectionScreenPrompt": "Wybierz kartę.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "Pertraktuj",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10%[/blue] szans na wejście.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "Pertraktuj",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "Przyjąłeś zaproszenie Króla. Musisz wejść.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "Zbliżasz się do progu z pustymi rękami i przedstawiasz swoją sprawę. Król słucha, nieruchomy. Potem, niemal niedostrzegalnie, daje ci znak, by podejść.\n\n[sine][gold]„Nieproszony gość. Mów, póki jestem w nastroju, by słuchać.”[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_FAIL.description": "Zbliżasz się do progu z pustymi rękami. Król nie przemawia, lecz [jitter][red]czujesz[/red][/jitter] jego niezadowolenie.\n\n[sine][gold]Nie byłeś zaproszony.[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.title": "Zablokowane",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.description": "Wymaga [gold]Pierścienia Mardana Fu Mardana[/gold]."
 }

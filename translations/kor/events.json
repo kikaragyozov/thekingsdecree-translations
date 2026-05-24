@@ -38,5 +38,13 @@
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.title": "반지를 두고 흥정한다",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.description": "[gold]반지[/gold]를 얻습니다. [red]왕의 저주[/red]를 짊어집니다.",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.BARGAIN.description": "챔피언은 당신을 오래도록 바라봅니다. 그 눈빛에 멸시는 없습니다 — 다만 이 길을 택한 자들을 수없이 보아 온 자의 피로함만이 있을 뿐입니다.\n\n그는 한 번 고개를 끄덕이고는, 별다른 격식 없이 [gold]반지[/gold]를 당신의 손바닥에 올려놓습니다. 금속은 따뜻하고, 보기보다 묵직합니다.\n\n당신이 그것을 손에 꼭 쥐는 순간, [jitter][red]오싹한 한기[/red][/jitter]가 뼛속까지 스며듭니다 — 얻지 못한 것에 대해 미리 치르는 [red]왕의 저주[/red]입니다.",
-  "THEKINGSDECREE-generic.selectionScreenPrompt": "카드를 선택하세요."
+  "THEKINGSDECREE-generic.selectionScreenPrompt": "카드를 선택하세요.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "교섭한다",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10%[/blue] 확률로 들어갑니다.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "교섭한다",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "왕의 초대를 수락했습니다. 반드시 들어가야 합니다.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "빈손으로 문턱에 다가가 사정을 호소합니다. 왕은 미동도 없이 듣고 있습니다. 그러더니, 거의 알아차리지 못할 만큼 미세하게 손짓으로 앞으로 부릅니다.\n\n[sine][gold]“초대받지 않은 손님이로구나. 내가 듣고 싶은 기분일 때 말해라.”[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_FAIL.description": "빈손으로 문턱에 다가갑니다. 왕은 말하지 않습니다 — 그러나 그의 [jitter][red]불쾌함[/red][/jitter]이 느껴집니다.\n\n[sine][gold]그대는 초대받지 않았다.[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.title": "잠김",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.description": "[gold]마르단 푸 마르단의 반지[/gold]가 필요합니다."
 }

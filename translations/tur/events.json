@@ -38,5 +38,13 @@
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.ACCEPT_CHALLENGE.description": "[red]Savaş.[/red] [gold]Yüzük[/gold]’ü ve [gold]Davetiye[/gold]’yi kazan.",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.title": "Yüzük İçin Pazarlık Et",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.description": "[gold]Yüzük[/gold]’ü al. [red]Kralın Laneti[/red]’ni taşı.",
-  "THEKINGSDECREE-MARDANS_TRIAL.pages.BARGAIN.description": "Şampiyon seni uzun bir an süzer. Bakışında küçümseme yoktur; yalnızca daha önce bu yolu seçenleri çok kez görmüş birinin yorgunluğu vardır.\n\nBaşını bir kez sallar ve [gold]yüzük[/gold]’ü hiçbir tören yapmadan avucuna bırakır. Metal sıcaktır, göründüğünden ağırdır.\n\nParmakların yüzüğün etrafında kapanırken kemiklerine bir [jitter][red]soğukluk[/red][/jitter] yerleşir. [red]Kralın Laneti[/red]; hak etmediğin şeyin peşin ödenmiş bedeli."
+  "THEKINGSDECREE-MARDANS_TRIAL.pages.BARGAIN.description": "Şampiyon seni uzun bir an süzer. Bakışında küçümseme yoktur; yalnızca daha önce bu yolu seçenleri çok kez görmüş birinin yorgunluğu vardır.\n\nBaşını bir kez sallar ve [gold]yüzük[/gold]’ü hiçbir tören yapmadan avucuna bırakır. Metal sıcaktır, göründüğünden ağırdır.\n\nParmakların yüzüğün etrafında kapanırken kemiklerine bir [jitter][red]soğukluk[/red][/jitter] yerleşir. [red]Kralın Laneti[/red]; hak etmediğin şeyin peşin ödenmiş bedeli.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "Müzakere",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10%[/blue] giriş şansı.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "Müzakere",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "Kral’ın davetiyesini kabul ettin. Girmek zorundasın.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "Eşiğe eli boş yaklaşıp davanı anlatırsın. Kral kıpırdamadan dinler. Sonra, neredeyse fark edilmeyecek şekilde, seni ileri çağırır.\n\n[sine][gold]“Davetsiz bir misafir. Konuş, dinleme halindeyken.”[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_FAIL.description": "Eşiğe eli boş yaklaşırsın. Kral konuşmaz, ama [jitter][red]hoşnutsuzluğunu[/red][/jitter] hissedersin.\n\n[sine][gold]Davet edilmemiştin.[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.title": "Kilitli",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.description": "[gold]Mardan Fu Mardan’ın Yüzüğü[/gold] gerektirir."
 }

@@ -38,5 +38,13 @@
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.title": "Bargain for the Ring",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.description": "Take the [gold]Ring[/gold]. Bear the [red]King's Curse[/red].",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.BARGAIN.description": "The Champion regards you a long moment. There is no contempt in his gaze — only the weariness of one who has seen many choose this path before.\n\nHe nods once and lays the [gold]ring[/gold] in your palm without ceremony. The metal is warm, heavier than it looks.\n\nAs your fingers close around it, a [jitter][red]chill[/red][/jitter] settles into your bones — the [red]King's Curse[/red], paid in advance for what you have not earned.",
-  "THEKINGSDECREE-generic.selectionScreenPrompt": "Choose a Card."
+  "THEKINGSDECREE-generic.selectionScreenPrompt": "Choose a Card.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "Parley",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10%[/blue] chance to enter.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "Parley",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "You accepted the King's invitation. You must enter.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "You approach the threshold empty-handed and speak your case. The King listens, unmoving. Then, almost imperceptibly, he gestures you forward.\n\n[sine][gold]“An uninvited guest. Speak, while I am in a listening mood.”[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_FAIL.description": "You approach the threshold empty-handed. The King does not speak — but you [jitter][red]feel[/red][/jitter] his displeasure.\n\n[sine][gold]You were not invited.[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.title": "Locked",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.description": "Requires [gold]Mardan Fu Mardan's Ring[/gold]."
 }

@@ -38,5 +38,13 @@
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.title": "Négocier l’Anneau",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.INITIAL.options.BARGAIN.description": "Prenez l’[gold]Anneau[/gold]. Subissez la [red]Malédiction du Roi[/red].",
   "THEKINGSDECREE-MARDANS_TRIAL.pages.BARGAIN.description": "Le Champion vous observe un long moment. Il n’y a aucun mépris dans son regard — seulement la lassitude de celui qui en a vu beaucoup choisir cette voie avant vous.\n\nIl acquiesce d’un seul hochement et dépose l’[gold]anneau[/gold] dans votre paume sans cérémonie. Le métal est tiède, plus lourd qu’il n’y paraît.\n\nTandis que vos doigts se referment dessus, un [jitter][red]frisson[/red][/jitter] s’installe dans vos os — la [red]Malédiction du Roi[/red], payée d’avance pour ce que vous n’avez pas mérité.",
-  "THEKINGSDECREE-generic.selectionScreenPrompt": "Choisissez une Carte."
+  "THEKINGSDECREE-generic.selectionScreenPrompt": "Choisissez une Carte.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.title": "Parlementer",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY.description": "[blue]10 %[/blue] de chance d’entrer.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.title": "Parlementer",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.INITIAL.options.PARLEY_LOCKED.description": "Vous avez accepté l’invitation du Roi. Vous devez entrer.",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_SUCCESS.description": "Vous approchez du seuil les mains vides et plaidez votre cause. Le Roi écoute, immobile. Puis, de manière presque imperceptible, il vous fait signe d’avancer.\n\n[sine][gold]« Un invité sans invitation. Parlez, tant que je suis d’humeur à écouter. »[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.PARLEY_FAIL.description": "Vous approchez du seuil les mains vides. Le Roi ne parle pas — mais vous [jitter][red]ressentez[/red][/jitter] son déplaisir.\n\n[sine][gold]Vous n’étiez pas invité.[/gold][/sine]",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.title": "Verrouillé",
+  "THEKINGSDECREE-KINGS_THRONE_ROOM.pages.ENTERED.options.CLAIM_SULTAN_LOCKED.description": "Nécessite l’[gold]Anneau de Mardan Fu Mardan[/gold]."
 }
