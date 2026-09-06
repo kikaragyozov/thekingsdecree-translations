@@ -1,0 +1,4 @@
+{
+  "THEKINGSDECREE-MARDANS_TRIAL_ENCOUNTER.title": "Czempion Króla",
+  "THEKINGSDECREE-MARDANS_TRIAL_ENCOUNTER.loss": "{character} {characterGender:choose(masculine|feminine|neutral):został zabity|została zabita|został zabity} przez [gold]Czempiona Króla[/gold]."
+}

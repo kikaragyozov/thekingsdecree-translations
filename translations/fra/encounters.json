@@ -1,0 +1,4 @@
+{
+  "THEKINGSDECREE-MARDANS_TRIAL_ENCOUNTER.title": "Champion du Roi",
+  "THEKINGSDECREE-MARDANS_TRIAL_ENCOUNTER.loss": "{character} a été terrassé{characterGender:choose(feminine):e|} par le [gold]{encounter}[/gold]."
+}

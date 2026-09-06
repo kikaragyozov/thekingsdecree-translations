@@ -24,10 +24,14 @@ translations/
 └── zhs/   — Simplified Chinese
 ```
 
-Each language folder contains three files:
+Each language folder contains seven files:
 
-- `events.json` — the King's Servant and King's Throne Room event text (~37 keys).
+- `events.json` — the King's Servant, Mardan's Trial and King's Throne Room event text.
 - `relics.json` — the three relic titles, descriptions, and flavor text.
+- `cards.json` — the Mardan's Challenge and King's Invitation quest cards.
+- `monsters.json` — the King's Champion and its move names.
+- `powers.json` — the Royal Bearing power.
+- `encounters.json` — the King's Champion encounter title and its game-over / Run History loss message.
 - `settings_ui.json` — the mod name and config dropdown labels.
 
 ## Why this exists
